@@ -15,10 +15,12 @@
 // License for the specific language governing permissions and limitations
 // under the License.
 
-// Package skeleton implements an skeleton golang package for the Goomba
-// project.
-//
-// Contains all the basic files, configuration and support files in a ready to
-// clone repository as a boiler plate for fast creation of a component insides
-// Goomba project.
+/*
+Package skeleton implements an skeleton golang package for the Goomba
+project.
+
+Contains all the basic files, configuration and support files in a ready to
+clone repository as a boiler plate for fast creation of a component insides
+Goomba project.
+*/
 package skeleton
